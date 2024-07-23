@@ -125,3 +125,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#package-lock.json 
+package-lock.json
+
+#https://the-guild.dev/graphql/yoga-server/tutorial/basic/02-getting-started
