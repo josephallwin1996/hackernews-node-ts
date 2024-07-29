@@ -129,4 +129,8 @@ dist
 #package-lock.json 
 package-lock.json
 
+#prisma
+prisma/migrations
+prisma/dev.db
+
 #https://the-guild.dev/graphql/yoga-server/tutorial/basic/02-getting-started
